@@ -1,3 +1,7 @@
+global using Taxually.TechnicalTest.Model;
+global using Taxually.TechnicalTest.Services;
+global using Microsoft.AspNetCore.Mvc;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

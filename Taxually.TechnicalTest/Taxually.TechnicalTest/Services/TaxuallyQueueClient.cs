@@ -1,4 +1,4 @@
-﻿namespace Taxually.TechnicalTest
+﻿namespace Taxually.TechnicalTest.Services
 {
     public class TaxuallyQueueClient
     {
